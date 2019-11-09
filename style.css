@@ -2,10 +2,10 @@ body {
   text-align: center;
 }
 .content{
-	width: 500px;
+	width: 900px;
   height: 100px;
   position: absolute;
-  left: 40%;
+  left: 15%;
   margin-left: -100px;
   font-family : calibri;
 }
